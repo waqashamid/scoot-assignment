@@ -41,3 +41,6 @@ def main():
 
 if __name__=='__main__':
     main()
+
+# Time complexity: O(nlog(n)) assuming sorted takes O(nlog(n))
+# Extra Space: O(n)
